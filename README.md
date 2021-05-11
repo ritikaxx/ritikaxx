@@ -1,4 +1,5 @@
-### Hi there I am Ritika Singh👋
+# Hi there I am Ritika Singh👋
+# Welocme to my Github profile !
  I am currently pursuing my Computer Science degree from Vellore Institute of Technology, Vellore.
 
 ## ABOUT ME
