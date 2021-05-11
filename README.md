@@ -1,4 +1,4 @@
-### Hi there I am currently a Btech student pursuing my Computer Science degree from Vellore Institute of Technology, Vellore.👋
+### Hi there I am currently pursuing my Computer Science degree from Vellore Institute of Technology, Vellore.👋
 
 Here are some ideas to get you started:
 
