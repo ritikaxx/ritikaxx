@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ritikaxx/ritikaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I am currently a Btech student pursuing my Computer Science degree from Vellore Institute of Technology, Vellore.👋
 
 Here are some ideas to get you started:
 
