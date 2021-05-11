@@ -22,4 +22,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikaxx&theme=radical"/>
 
-
+## Connect with me on
+<img src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" href="https://www.instagram.com/ritikaxx/" width='30' height='30'>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" href="https://www.linkedin.com/in/ritika-singh-3131a01b4/" width='30' height='30' >
