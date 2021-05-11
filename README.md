@@ -7,7 +7,7 @@
 - 👯 UI/UX Designer and Full Stack Web Developer.
 
 ## MY GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=ritikaxx&&show_icons=true&count_private=true&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=ritikaxx&&show_icons=true&count_private=true&theme=radical"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikaxx&theme=radical"/>|
-|---|---|
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikaxx&theme=radical"/>
+
