@@ -6,3 +6,9 @@
 - :robot: I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 UI/UX Designer and Full Stack Web Developer.
 
+## GIT STATS
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=ritikaxx&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
+|---|---|
+
+## TOP PROGRAMMING LANGUAGES
