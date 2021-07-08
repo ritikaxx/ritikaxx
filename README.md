@@ -3,7 +3,7 @@
  I am currently pursuing my Computer Science degree from Vellore Institute of Technology, Vellore.
 
 ## ABOUT ME
-- :computer:  I’m currently working on Web development projects with Python framework-Flask
+- :computer:  I’m currently working on Web development projects using MERN stack and Flask.
 - :robot: I’m currently learning Artificial Intelligence and Machine Learning.
 - 👯 UI/UX Designer and Full Stack Web Developer.
 
