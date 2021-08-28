@@ -4,7 +4,8 @@
 
 ## ABOUT ME
 - :computer:  I’m currently working on Web development projects using MERN stack and Flask.
-- :robot: I’m currently learning Artificial Intelligence and Machine Learning.
+- :robot: I’m currently learning Blockchain Development with Solidity and Truffle.
+-  :computer:I ahve done some projects on Artificial Intelligence and Machine Learning.
 - 👯 UI/UX Designer and Full Stack Web Developer.
 
 ## :computer: Languages that I speak
