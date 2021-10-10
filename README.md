@@ -10,7 +10,7 @@
 - 👯 UI/UX Designer and Full Stack Web Developer.
 
 ## :computer: Languages that I speak
-* Front-end development :  HTML, CSS, Boostrap, Javascript, Jquery, React, Figma
+* Front-end development :  HTML, CSS, Boostrap, Javascript, Jquery, ReactJs, Figma
 * Backend development : Flask, MySQL, NodeJs, MongoDb, Solidity, SQLite
 
 
