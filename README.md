@@ -3,7 +3,7 @@
  I am currently pursuing my Computer Science degree from Vellore Institute of Technology, Vellore.
 
 ## ABOUT ME
-- :computer:  I’m currently working on Web development projects using MERN stack and Flask.
+- :computer:  I’m currently working on Web development projects using MERN stack.
 - :robot: I’m currently learning Blockchain Development with Solidity.
 - :computer:I have done some projects on Machine Learning.
 - :robot: I’m currently writing a research paper on Cyber Security and Steganography.
